@@ -1,0 +1,29 @@
+.jumbotron {
+    background-image: url("../imgs/burger.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    margin-top: 3%;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+  }
+
+  #newburger {
+    color: #5c5c5c;
+  }
+
+  #leftside {
+    background-color: rgb(197, 25, 25);
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Oswald', sans-serif;
+  }
+
+  #rightside {
+    background-color: #e49322;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+    font-family: 'Oswald', sans-serif;
+  }
