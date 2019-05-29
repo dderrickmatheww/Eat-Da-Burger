@@ -34,8 +34,8 @@ $(function() {
         console.log("Burger devoured");
         location.reload();
       });
-    });
-  
+    })
+
     $(".trashburger").on("click", function(event) {
       event.preventDefault();
   
